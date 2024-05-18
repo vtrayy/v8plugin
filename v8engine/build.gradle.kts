@@ -33,7 +33,7 @@ android {
 }
 
 dependencies {
-    api("com.caoccao.javet:javet-android:2.2.2")
+    api("com.caoccao.javet:javet-android-v8:3.1.2")
     api("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3")
 
     implementation("androidx.core:core-ktx:1.9.0")
